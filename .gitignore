@@ -1,0 +1,25 @@
+# Ignore build outputs
+/Debug/
+/Release/
+/build/
+/*.elf
+/*.bin
+/*.hex
+/*.map
+/*.lst
+
+# IDE-generated files
+/.settings/
+/*.launch
+*.log
+*.o
+*.d
+
+# CubeMX temp files
+*.ioc.bak
+*.ioc.sav
+
+# System files
+*.swp
+*.DS_Store
+Thumbs.db
